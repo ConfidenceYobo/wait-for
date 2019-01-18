@@ -6,7 +6,7 @@ When using this tool, you only need to pick the `wait-for` file as part of your 
 
 It uses `netcat` for testing ports, and `wget` for HTTP status.
 
-[![Build Status](https://travis-ci.org/eficode/wait-for.svg?branch=master)](https://travis-ci.org/eficode/wait-for)
+[![Build Status](https://travis-ci.org/capripot/wait-for.svg?branch=master)](https://travis-ci.org/capripot/wait-for)
 
 ## Usage
 
